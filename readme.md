@@ -1,2 +1,5 @@
-asdfasdfasdfsdf
-hola mundo
+# Título
+
+## Título de segundo nivel
+
+Esta es la documentación.
