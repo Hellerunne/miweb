@@ -1,8 +1,15 @@
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: ;
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
-h1 {
-  color: rgb(60, 60, 122);
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  align-items: center;  
 }
