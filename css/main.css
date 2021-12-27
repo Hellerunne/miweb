@@ -40,6 +40,7 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -56,8 +57,8 @@ body {
   font-weight: 600;
   line-height: 1.5;
   color: black;
-  text-align: center;
-  background-color: var(--gray-dark); }
+  text-align: left;
+  background-color: #ddd; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
